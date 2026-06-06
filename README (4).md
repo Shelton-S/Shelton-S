@@ -17,8 +17,8 @@
 ```python
 shelton = {
     "degree"     : "B.E. Computer Science Engineering @ Anna University (2026)",
-    "focus"      : ["Data Analytics", "Full-Stack Dev", "Cloud Architecture", "Cybersecurity"],
-    "languages"  : ["Python", "Java", "JavaScript"],
+    "focus"      : ["Data Analytics", "Full-Stack Dev", "Cloud Architect"],
+    "languages"  : ["Python", "Java","JavaScript"],
     "currently"  : "📊 Data Science Intern @ Cognifyz Technologies",
     "looking_for": "Software Developer / Data Analyst Role",
     "fun_fact"   : "I once built a melanoma detector with deep learning 🧠"

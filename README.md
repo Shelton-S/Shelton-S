@@ -84,7 +84,9 @@ shelton = {
 - 🌐 **Web Architecture Workshop** — Hion Studios
 - 🤖 **Robotics** — First Lego League (State & National Level)
 
-[![AI Upskilling Certificate – Qualcomm](https://images.credly.com/size/150x150/images/f388d21a-9bf3-4102-8164-60a78766bd2f/blob)](https://www.credly.com/badges/ac450a42-ee98-4daf-b676-7a19314a1f6c)
+<a href="https://www.credly.com/badges/ac450a42-ee98-4daf-b676-7a19314a1f6c">
+  <img src="https://images.credly.com/size/150x150/images/f388d21a-9bf3-4102-8164-60a78766bd2f/blob" width="60" alt="AI Upskilling Certificate – Qualcomm"/>
+</a>
 🔗 [View all my badges on Credly](https://www.credly.com/users/shelton-s)
 ---
 
